@@ -14,3 +14,7 @@
 
 ## Notes
 1. Own warehouse doesn’t necessary mean owned physical infrastructure, use of AWS, Azure or other cloud infrastructure is fine as long as you have a plan of how can you move out if required
+
+## Social
+
+[Follow us on Twitter] (https://twitter.com/own_data)
