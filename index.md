@@ -17,4 +17,4 @@
 
 ## Social
 
-[Follow us on Twitter] (https://twitter.com/own_data)
+[Follow us on Twitter](https://twitter.com/own_data)
