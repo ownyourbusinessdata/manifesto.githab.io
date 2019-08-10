@@ -5,7 +5,7 @@
 
 ## Principles
 1. Own data warehouse over vendor locked in
-2. Central warehouse rather over silos 
+2. Central data warehouse over silos 
 3. Open, transferable data format over vendor proprietary
 4. De-coupled warehouse, ETL and business analysis tool over monolith
 5. Open-source over proprietary 
